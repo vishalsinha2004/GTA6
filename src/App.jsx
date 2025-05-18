@@ -133,7 +133,7 @@ function App() {
                   <div className="line w-5 h-2 bg-white"></div>
                 </div>
                 <h3 className="text-4xl -mt-[8px] leading-none text-white">
-                  Rockstar
+                  Rockstar(vishal sinha)
                 </h3>
               </div>
             </div>
@@ -207,7 +207,7 @@ function App() {
                   autem sapiente.
                 </p>
                 <button className="bg-yellow-500 px-10 py-10 text-black mt-10 text-4xl">
-                  Download Now
+                v!&h@| $!n@h
                 </button>
               </div>
             </div>
