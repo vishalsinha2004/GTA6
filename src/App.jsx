@@ -133,7 +133,7 @@ function App() {
                   <div className="line w-5 h-2 bg-white"></div>
                 </div>
                 <h3 className="text-4xl -mt-[8px] leading-none text-white">
-                  Rockstar(vishal sinha)
+                  Rockstar
                 </h3>
               </div>
             </div>
